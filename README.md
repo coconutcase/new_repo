@@ -1,4 +1,3 @@
 # new_repo
-Pozdrav
-line u novom branchu
-line u branchichu
+Pozdrav!
+Danas sam vidjela puno visibaba. Dan je lijep!
